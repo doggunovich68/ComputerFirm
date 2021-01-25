@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SHARCO Movie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SHARCO Movie\\.nuget\\packages"
+    ]
+  }
+}
